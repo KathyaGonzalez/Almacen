@@ -4,7 +4,9 @@
  * and open the template in the editor.
  */
 package almacencoleccion;
-
+//Integrantes
+//Laura Belen Mejia Garcia
+//Kathya Bilena Gonzalez Coxaj
 /**
  *
  * @author libreria6
@@ -15,7 +17,8 @@ public class AlmacenColeccion {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        // TODO code application logic here}
+        
     }
     
 }
